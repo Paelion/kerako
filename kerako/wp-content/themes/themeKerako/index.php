@@ -1,4 +1,13 @@
-<?php get_header(); ?>
+<?php
+/*
+Template name:Home
+*/
+
+get_header();
+
+if (!function_exists('get_field')) return;
+
+?>
 
 <!-- Slider -->
 <section class="content">
@@ -30,6 +39,7 @@
 
     <section class="best">
         <div class="row best">
+            <!-- <div class="best--art1 col-3"><//?php the_field('best'); ?></div> -->
             <div class="best--art1 col-3"><img src="images/accueil/mitch_moondae_zXFtsdi9dIc_unsp.png"></div>
             <div class="best--art2 col-3"><img src="images/accueil/hal_gatewood_Vfml26Iy4mI_unspl.png"></div>
             <div class="best--art3 col-3"><img src="images/accueil/davide_cantelli_ajisKc2uuFk_un.png"></div>
