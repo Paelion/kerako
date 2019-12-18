@@ -1,12 +1,12 @@
 <?php
 /*
-Template name:Vintage
+Template name:Panier
 */
 
 
 get_header();
 
-
+if (!function_exists('get_field')) return;
 ?>
 
 
@@ -14,7 +14,7 @@ get_header();
     <div id="primary" class="content-area">
         <main id="main" class="site-main">
             <div class="promo"><?php the_field('table'); ?></div><br>
-            <div><?php echo get_field('table_img')['url']; ?></div>
+            <div><?php the_field('table_img'); ?></div>
         </main><!-- #main -->
     </div><!-- #primary -->
 
