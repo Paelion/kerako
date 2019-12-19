@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - WooCommerce - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-12-17 16:06:46+0000\n"
+"PO-Revision-Date: 2019-12-19 14:01:35+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -5273,7 +5273,7 @@ msgstr "Autoriser les clients à créer un compte au cours de la validation de c
 
 #: includes/admin/settings/class-wc-settings-accounts.php:56
 msgid "Allow customers to log into an existing account during checkout"
-msgstr "Autorisez les clients à se connecter à un compte existant pendant le processus de paiement."
+msgstr "Autoriser les clients à se connecter à un compte existant pendant le processus de paiement"
 
 #: includes/admin/settings/class-wc-settings-accounts.php:47
 msgid "Allow customers to place orders without an account"
@@ -14624,7 +14624,7 @@ msgstr "Définir un moyen de paiement par défaut"
 
 #: includes/admin/settings/class-wc-settings-advanced.php:218
 msgid "Endpoint for the delete payment method page."
-msgstr "Terminaison pour la page de suppression d&rsquo;un moyen de paiement."
+msgstr "Terminaison pour la page de suppression d’un moyen de paiement."
 
 #: includes/admin/settings/class-wc-settings-advanced.php:217
 msgid "Delete payment method"
@@ -21931,7 +21931,7 @@ msgstr "État du stock"
 #: includes/admin/meta-boxes/views/html-product-data-inventory.php:70
 #: includes/admin/meta-boxes/views/html-variation-admin.php:208
 msgid "If managing stock, this controls whether or not backorders are allowed. If enabled, stock quantity can go below 0."
-msgstr "En cas de gestion de stock, cela défini si les ruptures de stock sont autorisées ou non. Si actif, la quantité de stock peut être inférieure à 0."
+msgstr "En cas de gestion de stock, cela définit si les ruptures de stock sont autorisées ou non. Si actif, la quantité de stock peut être inférieure à 0."
 
 #: includes/wc-product-functions.php:830
 msgid "Allow, but notify customer"
