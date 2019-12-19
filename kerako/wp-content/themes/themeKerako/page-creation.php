@@ -13,8 +13,7 @@ if (!function_exists('get_field')) return;
 
     <div id="primary" class="content-area">
         <main id="main" class="site-main">
-            <div class="promo"><?php the_field('table'); ?></div><br>
-            <div><?php the_field('table_img'); ?></div>
+            <img src="<?php the_field('gallerie'); ?>">
         </main><!-- #main -->
     </div><!-- #primary -->
 

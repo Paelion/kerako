@@ -108,43 +108,84 @@ table {
 .best, .categoryBlock{
     justify-content: space-between;
 }
+
 .best--art1, .best--art2, .best--art3, .categoryBlock1, .categoryBlock2, .categoryBlock3{
-    background-color: grey;
     height: 250px;
-    margin: 45px;
+    margin: 60px;
 }
-
-/**** Hisotoire ****/
-
-.myStory{
-    background-color: #3A3939;
-    margin: 40px 0;
-    padding: 40px;
-    height: 600px;
-    color: white;
+.imageBest{
+    width: 110%;
 }
-.story{
+.titleBest{
     display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
 
-}
-.story--start{
-    display: block;
-}
 
 
 /**** Nouveautés ****/
-
+.new{
+    padding-top: 50px;
+}
 .new--title{
     display: flex;
     justify-content: center;
 }
+.new--slider{
+    padding-left: 30px;
+}
+
 .bottom--new{
     width: 40%;
     height: 1px;
     background-color: black;
     border: none;
 }
+.imageNew{
+    width: 90%;
+}
 
+/**** Histoire ****/
+
+.myStory{
+    background-color: #3A3939;
+    margin: 80px 0 40px;
+    padding: 0;
+    height: 600px;
+    color: white;
+}
+.story--start{
+    display: flex;
+}
+.story{
+    display: flex;
+}
+.imageStory{
+    width: 50%;
+}
+.imageStoryHer{
+    width: 20%;
+    height: 20%;
+}
+.btn--story{
+    color: #fff;
+    background-color: #E8C781;
+    border-color: #E8C781;
+    border-radius: 20px;
+    padding: 5px 35px;
+    margin-left: 100px;
+}
+.buttonBlock{
+    display: flex;
+    justify-content: center;
+}
+
+/**** Categories ****/
+
+.imageCat{
+    width: 100%;
+}
 
 /**** Footer ****/
 footer{
@@ -181,4 +222,6 @@ footer{
     display: flex;
 }
 
-
+.imageSlider{
+    width: 100%;
+}
