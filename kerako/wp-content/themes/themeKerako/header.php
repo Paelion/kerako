@@ -14,14 +14,14 @@
     <?php wp_head(); ?>
 
 </head>
-<body>
+<body <?php body_class(); ?>>
     <div id="container">
         <header>
-            <img src="images/logoKerako.jpg">
+            <img src="<?php echo get_template_directory_uri(); ?>/images/logoKerako.jpg" class="logoKerako">
             <div class="search">
                 <form action="/" method="get">
                     <input type="text" name="s" value="<?php the_search_query(); ?>" placeholder="Recherche" />
-                    <img src="images/loupe.png">
+                    <img src="<?php echo get_template_directory_uri(); ?>/images/loupe.png">
                 </form>
             </div>
             <hr class="bottom--search">
