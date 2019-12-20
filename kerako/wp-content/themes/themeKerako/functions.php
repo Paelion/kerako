@@ -28,7 +28,7 @@ function gkp_insert_css_in_head()
     if (is_page_template('page-histoire.php')) {
     wp_enqueue_style('Histoire', get_template_directory_uri().'/css/histoire.css');
     }
-    if (is_page_template('page-conatct.php')) {
+    if (is_page_template('page-contact.php')) {
         wp_enqueue_style('Contact', get_template_directory_uri().'/css/contact.css');
     }
     if (is_page_template('page-client-co.php')) {
