@@ -51,13 +51,11 @@ function gkp_insert_css_in_head()
     }
 }
 
-
-
-
-/*if ( is_page_template( 'index.php' ) ) {
-    wp_enqueue_style( 'style', get_stylesheet_directory_uri() .'style.css' );
+function mytheme_add_woocommerce_support() {
+    add_theme_support( 'woocommerce' );
 }
 
-if ( is_page_template( 'vintage.php' ) ) {
-    wp_enqueue_style( 'header', get_stylesheet_directory_uri() .'vintage.css' );
-}*/
+add_action( 'after_setup_theme', 'mytheme_add_woocommerce_support' );
+
+
+

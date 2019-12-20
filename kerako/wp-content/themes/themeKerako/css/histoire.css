@@ -201,18 +201,14 @@ footer{
 }
 .imageAtelier{
     width: 30%;
-    margin-left: 150px;
+    margin-left: 100px;
     position: relative;
     z-index: 1;
 }
 .imagePortrait{
-    width: 25%;
-}
-.histoireInfoImg{
-    width: 30%;
-}
-.histoireInfo1{
-    background-color: #F8F8F8;
+    width: 20%;
+    margin-left: 100px;
+    height: 100%;
 }
 
 .atelierTitle h4{
@@ -222,7 +218,7 @@ footer{
     font-weight: bold;
     margin-top: 70px;
 }
-.atelier--line{
+.atelier--line, .portrait--line{
     width: 50%;
     height: 1px;
     background-color: black;
@@ -238,21 +234,39 @@ footer{
 }
 .atelier p{
     text-align: justify;
-    width: 50%;
+    width: 80%;
     margin-left: 50px;
     margin-top: 30px;
     font-weight: 300;
+    font-size: 16px;
+}
+.atelierPara{
+    display: block;
+    width: 55%;
+    margin-top: 30px;
 }
 
-
-
-.btn--blog{
-    color: #fff;
-    background-color: #E8C781;
-    border-color: #E8C781;
-    border-radius: 20px;
-    padding: 8px 35px;
-    margin-left: 100px;
+.portraitTitle{
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 180px;
+}
+.portraitTitle h4{
+    margin-left: 115px;
+}
+.portrait--block{
+    padding-left: 150px;
+}
+.portrait--block h2{
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+.portrait--block p{
+    font-weight: 300;
+    text-align: justify;
+    width: 85%;
 }
 .btn--portrait{
     color: #fff;
@@ -260,5 +274,62 @@ footer{
     border-color: #E8C781;
     border-radius: 20px;
     padding: 8px 35px;
-    margin-left: 100px;
+    margin-left: 500px;
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+
+.separateurImg{
+    width: 100%;
+}
+
+.blog{
+    background-color: #F3F3F3;
+    display: flex;
+    justify-content: center;
+    margin: 80px 0;
+}
+.blog--content{
+    display: block;
+}
+.btn--blog{
+    color: #fff;
+    background-color: #E8C781;
+    border-color: #E8C781;
+    border-radius: 20px;
+    padding: 10px 80px;
+    margin-top: 50px;
+    margin-bottom: 80px;
+    font-size: 14px;
+}
+.blog--content h2{
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 80px;
+    margin-left: 40px;
+}
+
+.histoireInfoImg{
+    width: 30%;
+}
+.histoireInfo1{
+    background-color: #F8F8F8;
+}
+.histoireInfo2{
+    margin-bottom: 100px;
+    margin-top: 30px;
+}
+.histoireInfo1 p{
+    margin-right: 80px;
+}
+.histoireInfo2 p{
+    margin-left: 80px;
+}
+.histoireInfo p{
+    text-align: justify;
+    width: 80%;
+    margin-top: 60px;
+}
+.histoireInfo{
+   padding: 50px 100px;
 }

@@ -337,3 +337,12 @@ footer{
     margin-top: 10px;
 }
 
+
+
+
+
+
+.woocommerce-input-wrapper{
+    width: 100%;
+    display: block;
+}
