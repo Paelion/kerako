@@ -1,4 +1,8 @@
 <?php
+/*
+Template name:MyAccount
+*/
+
 /**
  * My Account page
  *

@@ -190,3 +190,9 @@ footer{
     width: 280px;
     margin-top: 10px;
 }
+
+/*-------------------------------------------------------*/
+
+html{
+    background-color: red;
+}
