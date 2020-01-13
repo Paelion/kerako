@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 5.3.x - Development package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-01-07 18:50:45+0000\n"
+"PO-Revision-Date: 2020-01-10 07:46:09+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -13588,7 +13588,7 @@ msgstr "Les scripts et les styles ne peuvent pas être enregistrés ou ajoutés 
 #. translators: 1: Home URL, 2: Admin URL.
 #: wp-includes/ms-functions.php:2102
 msgid "You have been added to this site. Please visit the <a href=\"%1$s\">homepage</a> or <a href=\"%2$s\">log in</a> using your username and password."
-msgstr "Vous avez été ajouté à ce site. Vous pouvez vous rendre sur <a href=\"%s\">sa page d’accueil</a> ou <a href=\"%s\">vous connecter</a> à l’aide de votre identifiant et mot de passe."
+msgstr "Vous avez été ajouté à ce site. Vous pouvez vous rendre sur <a href=\"%1$s\">sa page d’accueil</a> ou <a href=\"%2$s\">vous connecter</a> à l’aide de votre identifiant et mot de passe."
 
 #: wp-includes/script-loader.php:1231
 msgid "Memory exceeded. Please try another smaller file."

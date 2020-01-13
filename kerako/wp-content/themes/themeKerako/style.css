@@ -341,7 +341,7 @@ footer{
 
 
 /*------------------- WOO COMMERCE -------------------*/
-
+/*------ COMPTE ------*/
 .woocommerce-input-wrapper{
     width: 50%;
     display: block;
@@ -398,4 +398,68 @@ a{
 .woocommerce form .form-row {
     margin: 20px 0 6px;
     font-weight: lighter;
+}
+
+/*------ CART ------*/
+.bottom--pannier{
+    width: 15%;
+    height: 1px;
+    background-color: black;
+    border: none;
+}
+.woocommerce-cart-form {
+    width: 100%;
+}
+
+.woocommerce .cart-collaterals, .woocommerce-page .cart-collaterals {
+    width: 50%;
+}
+.flex--wrap{
+    display: flex;
+}
+.woocommerce .cart-collaterals .cart_totals, .woocommerce-page .cart-collaterals .cart_totals{
+    width: 100%;
+
+}
+.woocommerce-cart .cart-collaterals .cart_totals table{
+    margin: 20px 0 6px
+}
+.woocommerce-cart-form, .cart_totals {
+    margin: 50px;
+}
+.cart_totals{
+    background-color: #EFEDE8;
+    padding: 0 30px;
+}
+.woocommerce table.shop_table{
+    margin: 50px -1px 24px 0;
+    border: none;
+}
+.woocommerce table.shop_table td{
+    border: none;
+}
+.actions, .product-subtotal{
+    display: none;
+}
+.woocommerce-cart table.cart img{
+    width: 120px;
+}
+.woocommerce a.button.alt{
+    background-color: white;
+    color: black;
+    border-radius: 40px;
+    width: 70%;
+    font-weight: 300;
+}
+.woocommerce a.button.alt:hover{
+    background-color: black;
+    color: white;
+}
+.woocommerce-cart .wc-proceed-to-checkout{
+    display: flex;
+    justify-content: center;
+    padding: 3em 0 1em;
+}
+.woocommerce-cart .cart-collaterals .cart_totals tr th{
+    font-weight: 200;
 }
