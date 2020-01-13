@@ -1,0 +1,42 @@
+{
+    "key": "group_5df7e07203f5b",
+    "title": "Creation",
+    "fields": [
+        {
+            "key": "field_5dfa4cf29d9f1",
+            "label": "gallerie",
+            "name": "gallerie",
+            "type": "photo_gallery",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "fields[gallerie": {
+                "edit_modal": "Default"
+            },
+            "edit_modal": "Default"
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "page_template",
+                "operator": "==",
+                "value": "page-creation.php"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": 1,
+    "description": "",
+    "modified": 1578911817
+}
