@@ -13,6 +13,8 @@ add_action('wp_enqueue_scripts', 'gkp_insert_css_in_head');
 function gkp_insert_css_in_head()
 {
     wp_enqueue_style("bs_css", "https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css");
+    wp_enqueue_script("bs_popper", "https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js");
+    wp_enqueue_script("bs_script", "https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js");
     wp_enqueue_style('style', get_bloginfo('stylesheet_url'));
 
 
@@ -58,4 +60,26 @@ function mytheme_add_woocommerce_support() {
 add_action( 'after_setup_theme', 'mytheme_add_woocommerce_support' );
 
 
+add_filter('acf/settings/save_json', 'my_acf_json_save_point');
 
+function my_acf_json_save_point( $path ) {
+
+    // update path
+    $path = get_template_directory() . '/acf-json';
+
+
+    // return
+    return $path;
+
+}
+
+add_filter('acf/settings/load_json', function($paths) {
+    $paths = array(get_template_directory() . '/acf-json');
+
+    if(is_child_theme())
+    {
+        $paths[] = get_stylesheet_directory() . '/acf-json';
+    }
+
+    return $paths;
+});

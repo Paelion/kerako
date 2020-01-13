@@ -15,6 +15,9 @@
  * @version 3.8.0
  */
 
+
+
+
 defined('ABSPATH') || exit;
 
 do_action('woocommerce_before_cart'); ?>
@@ -180,3 +183,17 @@ do_action('woocommerce_before_cart'); ?>
     </div>
 </div>
 <?php do_action('woocommerce_after_cart'); ?>
+
+<div class="pannierMore">
+    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <div class="row">
+                    <div class="col-sm"><img class="imageNew" src="<?php the_field('img1') ?>"></div>
+                    <div class="col-sm"><img class="imageNew" src="<?php the_field('img2') ?>"></div>
+                    <div class="col-sm"><img class="imageNew" src="<?php the_field('img3') ?>"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
