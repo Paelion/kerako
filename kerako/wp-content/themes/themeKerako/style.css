@@ -248,7 +248,7 @@ header{
     text-align: justify;
     margin-top: 20px;
 }
-.btn--story{
+.btn--story, .btn--more{
     color: #fff;
     background-color: #E8C781;
     border-color: #E8C781;
@@ -465,5 +465,22 @@ a{
 }
 .pannierMore{
     background-color: #F9F9F9 ;
+    padding-left: 5%;
+}
+.imageSame{
+    width: 80%;
+    margin: 0 50px;
+}
+.title--more{
+    padding: 20px 0 30px 0;
+}
+.btn--more{
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+}
 
+.flex--button{
+    display: flex;
+    justify-content: center;
 }

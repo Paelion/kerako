@@ -18,7 +18,7 @@ if (!function_exists('get_field')) return;
                 <img class="imageSlider" src="<?php the_field('slider_1') ?>">
             </div>
             <div class="carousel-item">
-                <img class="imageSlider" src="<?php the_field('slider_2') ?>">
+                <img class="imageSlider" src="<?php the_field('slider_1') ?>">
             </div>
             <div class="carousel-item">
                 <img class="imageSlider" src="<?php the_field('slider_3') ?>">
