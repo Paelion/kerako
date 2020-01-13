@@ -26,8 +26,8 @@
                 <hr class="bottom--search">
             </div>
             <div class="accesPage">
-                <h5><a href="">Votre compte</a></h5>
-                <h5><a href="">Shop</a></h5>
+                <h5><a href="http://localhost:8888/kerako/mon-compte/">Votre compte</a></h5>
+                <h5><a href="http://localhost:8888/kerako/panier-2/">Shop</a></h5>
             </div>
         </header>
         <nav class="menu--nav">

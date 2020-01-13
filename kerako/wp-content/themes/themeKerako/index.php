@@ -119,12 +119,13 @@ if (!function_exists('get_field')) return;
                     <p class="storyDesc"><?php the_field('story_desc_1'); ?></p>
                     <p class="storyDesc"><?php the_field('story_desc_2'); ?></p>
                 </div>
-                <img class="imageStory" src="<?php the_field('story') ?>">
+               <img class="imageStory" src="<?php the_field('story') ?>">
             </div>
         </div>
         <div class="buttonBlock">
-            <button type="button" class="btn--story">En savoir plus</button>
-            <button type="button" class="btn--story">Me contacter</button>
+            <button type="button" class="btn--story" onclick="window.location.href = 'http://localhost:8888/kerako/mon-histoire/'">En savoir plus</button>
+            <button type="button" class="btn--story" onclick="window.location.href = 'http://localhost:8888/kerako/contact/'">Me contacter</button>
+
         </div>
     </section>
 
