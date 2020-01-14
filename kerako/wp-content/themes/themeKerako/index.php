@@ -41,15 +41,15 @@ if (!function_exists('get_field')) return;
         <div class="row bestRow">
             <!-- <div class="best--art1 col-3"><//?php the_field('best'); ?></div> -->
             <div class="best--art1 col-3">
-                <img class="imageBest" src="<?php the_field('best_1') ?>">
+                <a href="http://localhost:8888/kerako/produit/produit-4/"><img class="imageBest" src="<?php the_field('best_1') ?>"></a>
                 <h4 class="titleBest"><?php the_field('best_title_1') ?></h4>
             </div>
             <div class="best--art2 col-3">
-                <img class="imageBest" src="<?php the_field('best_2') ?>">
+                <a href="http://localhost:8888/kerako/produit/produit-4/"><img class="imageBest" src="<?php the_field('best_2') ?>"></a>
                 <h4 class="titleBest"><?php the_field('best_title_2') ?></h4>
             </div>
             <div class="best--art3 col-3">
-                <img class="imageBest" src="<?php the_field('best_3') ?>">
+                <a href="http://localhost:8888/kerako/produit/produit-4/"><img class="imageBest" src="<?php the_field('best_3') ?>"></a>
                 <h4 class="titleBest"><?php the_field('best_title_2') ?></h4>
             </div>
         </div>
@@ -66,29 +66,29 @@ if (!function_exists('get_field')) return;
                 <div class="carousel-inner">
                     <div class="carousel-item active">
                         <div class="row">
-                            <div class="col-sm"><img class="imageNew" src="<?php the_field('new_1') ?>"></div>
-                            <div class="col-sm"><img class="imageNew" src="<?php the_field('new_2') ?>"></div>
-                            <div class="col-sm"><img class="imageNew" src="<?php the_field('new_3') ?>"></div>
-                            <div class="col-sm"><img class="imageNew" src="<?php the_field('new_4') ?>"></div>
-                            <div class="col-sm"><img class="imageNew" src="<?php the_field('new_5') ?>"></div>
+                            <div class="col-sm"><a href="http://localhost:8888/kerako/produit/produit-4/"><img class="imageNew" src="<?php the_field('new_1') ?>"></a></div>
+                            <div class="col-sm"><a href="http://localhost:8888/kerako/produit/produit-4/"><img class="imageNew" src="<?php the_field('new_2') ?>"></a></div>
+                            <div class="col-sm"><a href="http://localhost:8888/kerako/produit/produit-4/"><img class="imageNew" src="<?php the_field('new_3') ?>"></a></div>
+                            <div class="col-sm"><a href="http://localhost:8888/kerako/produit/produit-4/"><img class="imageNew" src="<?php the_field('new_4') ?>"></a></div>
+                            <div class="col-sm"><a href="http://localhost:8888/kerako/produit/produit-4/"><img class="imageNew" src="<?php the_field('new_5') ?>"></a></div>
                         </div>
                     </div>
                     <div class="carousel-item">
                         <div class="row">
-                            <div class="col-sm"><img class="imageNew" src="<?php the_field('new_1') ?>"></div>
-                            <div class="col-sm"><img class="imageNew" src="<?php the_field('new_2') ?>"></div>
-                            <div class="col-sm"><img class="imageNew" src="<?php the_field('new_3') ?>"></div>
-                            <div class="col-sm"><img class="imageNew" src="<?php the_field('new_4') ?>"></div>
-                            <div class="col-sm"><img class="imageNew" src="<?php the_field('new_5') ?>"></div>
+                            <div class="col-sm"><a href="http://localhost:8888/kerako/produit/produit-4/"><img class="imageNew" src="<?php the_field('new_1') ?>"></a></div>
+                            <div class="col-sm"><a href="http://localhost:8888/kerako/produit/produit-4/"><img class="imageNew" src="<?php the_field('new_2') ?>"></a></div>
+                            <div class="col-sm"><a href="http://localhost:8888/kerako/produit/produit-4/"><img class="imageNew" src="<?php the_field('new_3') ?>"></a></div>
+                            <div class="col-sm"><a href="http://localhost:8888/kerako/produit/produit-4/"><img class="imageNew" src="<?php the_field('new_4') ?>"></a></div>
+                            <div class="col-sm"><a href="http://localhost:8888/kerako/produit/produit-4/"><img class="imageNew" src="<?php the_field('new_5') ?>"></a></div>
                         </div>
                     </div>
                     <div class="carousel-item">
                         <div class="row">
-                            <div class="col-sm"><img class="imageNew" src="<?php the_field('new_1') ?>"></div>
-                            <div class="col-sm"><img class="imageNew" src="<?php the_field('new_2') ?>"></div>
-                            <div class="col-sm"><img class="imageNew" src="<?php the_field('new_3') ?>"></div>
-                            <div class="col-sm"><img class="imageNew" src="<?php the_field('new_4') ?>"></div>
-                            <div class="col-sm"><img class="imageNew" src="<?php the_field('new_5') ?>"></div>
+                            <div class="col-sm"><a href="http://localhost:8888/kerako/produit/produit-4/"><img class="imageNew" src="<?php the_field('new_1') ?>"></a></div>
+                            <div class="col-sm"><a href="http://localhost:8888/kerako/produit/produit-4/"><img class="imageNew" src="<?php the_field('new_2') ?>"></a></div>
+                            <div class="col-sm"><a href="http://localhost:8888/kerako/produit/produit-4/"><img class="imageNew" src="<?php the_field('new_3') ?>"></a></div>
+                            <div class="col-sm"><a href="http://localhost:8888/kerako/produit/produit-4/"><img class="imageNew" src="<?php the_field('new_4') ?>"></a></div>
+                            <div class="col-sm"><a href="http://localhost:8888/kerako/produit/produit-4/"><img class="imageNew" src="<?php the_field('new_5') ?>"></a></div>
                         </div>
                     </div>
                 </div>
@@ -119,12 +119,16 @@ if (!function_exists('get_field')) return;
                     <p class="storyDesc"><?php the_field('story_desc_1'); ?></p>
                     <p class="storyDesc"><?php the_field('story_desc_2'); ?></p>
                 </div>
-               <img class="imageStory" src="<?php the_field('story') ?>">
+                <img class="imageStory" src="<?php the_field('story') ?>">
             </div>
         </div>
         <div class="buttonBlock">
-            <button type="button" class="btn--story" onclick="window.location.href = 'http://localhost:8888/kerako/mon-histoire/'">En savoir plus</button>
-            <button type="button" class="btn--story" onclick="window.location.href = 'http://localhost:8888/kerako/contact/'">Me contacter</button>
+            <button type="button" class="btn--story"
+                    onclick="window.location.href = 'http://localhost:8888/kerako/mon-histoire/'">En savoir plus
+            </button>
+            <button type="button" class="btn--story"
+                    onclick="window.location.href = 'http://localhost:8888/kerako/contact/'">Me contacter
+            </button>
 
         </div>
     </section>
@@ -133,9 +137,9 @@ if (!function_exists('get_field')) return;
 
     <section class="categories">
         <div class="row categoryBlock">
-            <div class="categoryBlock1 col-3"><img class="imageCat" src="<?php the_field('categorie_1') ?>"></div>
-            <div class="categoryBlock2 col-3"><img class="imageCat" src="<?php the_field('categorie_2') ?>"></div>
-            <div class="categoryBlock3 col-3"><img class="imageCat" src="<?php the_field('categorie_3') ?>"></div>
+            <div class="categoryBlock1 col-3"><a href="http://localhost:8888/kerako/produit/produit-4/"><img class="imageCat" src="<?php the_field('categorie_1') ?>"></a></div>
+            <div class="categoryBlock2 col-3"><a href="http://localhost:8888/kerako/produit/produit-4/"><img class="imageCat" src="<?php the_field('categorie_2') ?>"></a></div>
+            <div class="categoryBlock3 col-3"><a href="http://localhost:8888/kerako/produit/produit-4/"><img class="imageCat" src="<?php the_field('categorie_3') ?>"></a></div>
         </div>
     </section>
 

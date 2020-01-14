@@ -39,5 +39,6 @@ if ( $rating_count > 0 ) : ?>
 			<?php // phpcs:enable ?>
 		<?php endif ?>
 	</div>
+    <hr class="bottom--title">
 
 <?php endif; ?>
