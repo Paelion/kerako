@@ -85,8 +85,8 @@ header {
     margin: 15px 0;
 }
 
-.search {
-    margin-left: 25%;
+.formSearch {
+    margin-left: 30%;
     margin-top: 10px;
 }
 
@@ -96,7 +96,7 @@ header {
 }
 
 .loupe {
-    width: 7%;
+    width: 30px;
 }
 
 .searchForm {
@@ -104,21 +104,26 @@ header {
     justify-content: center;
 }
 
-.search input {
+.formSearch input {
     border: none;
     font-family: 'Montserrat', sans-serif;
 }
 
 .bottom--search {
-    width: 60%;
+    width: 100%;
     height: 0.5px;
     background-color: black;
     border: none;
 }
+.button-search{
+    background-color: transparent;
+    border: none;
+    width: 50px;
+}
 
 .accesPage {
     display: flex;
-    margin-left: 150px;
+    margin-left: 250px;
     margin-top: 40px;
 }
 
@@ -453,54 +458,41 @@ a {
     background-color: black;
     border: none;
 }
-
 .woocommerce-cart-form {
     width: 100%;
 }
-
 .woocommerce .cart-collaterals, .woocommerce-page .cart-collaterals {
     width: 50%;
 }
-
 .flex--wrap {
     display: flex;
 }
-
 .woocommerce .cart-collaterals .cart_totals, .woocommerce-page .cart-collaterals .cart_totals {
     width: 100%;
-
 }
-
 .woocommerce-cart .cart-collaterals .cart_totals table {
     margin: 20px 0 6px
 }
-
 .woocommerce-cart-form, .cart_totals {
     margin: 50px;
 }
-
 .cart_totals {
     background-color: #EFEDE8;
     padding: 0 30px;
 }
-
 .woocommerce table.shop_table {
     margin: 50px -1px 24px 0;
     border: none;
 }
-
 .woocommerce table.shop_table td {
     border: none;
 }
-
 .actions, .product-subtotal {
     display: none;
 }
-
 .woocommerce-cart table.cart img {
     width: 120px;
 }
-
 .woocommerce a.button.alt {
     background-color: white;
     color: black;
@@ -508,50 +500,42 @@ a {
     width: 70%;
     font-weight: 300;
 }
-
 .woocommerce a.button.alt:hover {
     background-color: black;
     color: white;
 }
-
 .woocommerce-cart .wc-proceed-to-checkout {
     display: flex;
     justify-content: center;
     padding: 3em 0 1em;
 }
-
 .woocommerce-cart .cart-collaterals .cart_totals tr th {
     font-weight: 200;
 }
-
 .pannierMore {
     background-color: #F9F9F9;
 }
-
 .imageSame {
     width: 80%;
     margin: 0 50px;
 }
-
 .title--more {
     padding: 20px 0 30px 0;
 }
-
 .btn--more {
     display: flex;
     justify-content: center;
     margin: 30px;
 }
-
 .flex--button {
     display: flex;
     justify-content: center;
 }
 
+/*------ ACCOUNT ------*/
 .woocommerce-MyAccount-navigation {
     margin: 100px 0;
 }
-
 .woocommerce-MyAccount-navigation ul {
     display: flex;
     flex-wrap: wrap;
@@ -559,13 +543,10 @@ a {
     justify-content: center;
     margin: 20px 100px
 }
-
 .woocommerce-MyAccount-navigation ul li {
     display: flex;
     margin: 0 20px;
-
 }
-
 .woocommerce-MyAccount-navigation ul li a {
     color: #fff;
     background-color: #E8C781;
@@ -576,48 +557,37 @@ a {
     margin-top: 50px;
     padding: 15px 80px;
 }
-
 .woocommerce-MyAccount-content p:nth-child(3), .woocommerce-MyAccount-content p:nth-child(2) {
     display: none;
 }
-.woocommerce-MyAccount-content p:nth-child(2)
-
 .woocommerce-account .woocommerce-MyAccount-navigation {
     float: none;
 }
-
 .woocommerce-account .woocommerce-MyAccount-content {
     float: none;
     width: 100%;
     display: flex;
     justify-content: center;
 }
-
 .woocommerce-info {
     border-top-color: black;
 }
-
 .woocommerce-info::before {
     color: #E8C781;
 }
-
 #account_first_name, #account_display_name, #account_email, #password_2, #billing_first_name, #billing_last_name, #billing_company, #billing_address_1, #billing_address_2, #billing_postcode, #billing_city, #billing_phone, #billing_email, #shipping_first_name, #shipping_last_name, #shipping_company, #shipping_address_1, #shipping_address_2, #shipping_postcode, #shipping_city {
     background-color: #F3F3F3;
     color: black;
 }
-
 #billing_first_name_field, #billing_last_name_field, #billing_company_field, #billing_country_field, #billing_address_1_field, #billing_address_2_field, #billing_postcode_field, #billing_phone_field, #billing_email_field, #billing_city_field, #shipping_first_name_field, #shipping_last_name_field, #shipping_country_field, #shipping_address_1_field,#shipping_postcode_field, #shipping_city_field {
     display: block;
 }
-
 .woocommerce-billing-fields {
     margin: 0 0 0 100px;
 }
-
 .checkout {
     margin-top: 80px;
 }
-
 #order_comments {
     border: none;
     background-color: #F3F3F3;
@@ -625,7 +595,6 @@ a {
     padding: 10px 20px;
     height: 100px;
 }
-
 #order_review {
     display: flex;
     margin:  20px 50px;
@@ -649,7 +618,6 @@ a {
     font-weight: 300;
     margin: 30px 0 10px 0;
 }
-
 #add_payment_method{
     display: flex;
     justify-content: center;
@@ -659,6 +627,8 @@ a {
     max-width: 100%;
     width:100% ;
 }
+
+/*------ SINGLE PRODUCT ------*/
 .woocommerce .col2-set, .woocommerce-page .col2-set {
     width: 70%;
     margin-bottom: 50px;
@@ -678,7 +648,6 @@ a {
     flex-wrap: wrap;
     width: 100vw;
 }
-
 .woocommerce .woocommerce-ordering, .woocommerce-page .woocommerce-ordering {
     float: left;
 }
@@ -746,9 +715,6 @@ h1{
 .woocommerce-review-link{
     display: none;
 }
-.price{
-    margin-left: 25%;
-}
 .woocommerce div.product form.cart {
     margin: 50px 0;
 }
@@ -766,4 +732,82 @@ h1{
     width: 40px;
     margin: 20px 5px;
 }
-
+.woocommerce div.product .woocommerce-tabs .panel {
+    margin: 0 0 2em 10%;
+    padding: 0;
+    width: 80%;
+    text-align: justify;
+}
+.woocommerce h2 {
+    margin: 20px 0;
+    font-weight: bold;
+}
+.comment_container img{
+    display: none;
+}
+.woocommerce #reviews #comments ol.commentlist li .comment-text{
+    margin:0;
+    border: none;
+    border-bottom: solid 1px grey;
+    border-top: solid 1px grey;
+    border-radius: 0;
+}
+.comment-reply-title{
+    font-weight: bold;
+    margin: 20px 0;
+}
+.comment-form{
+    margin: 20px 0;
+}
+.woocommerce #reviews #comments ol.commentlist {
+    margin: 20px 0 30px 0;
+}
+.woocommerce #review_form #respond p {
+    margin: 0 0 20px;
+}
+.products h2{
+    margin-left: 10%;
+}
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active {
+    background: #fff;
+    z-index: 2;
+}
+.woocommerce div.product .woocommerce-tabs ul.tabs li {
+    border: 1px solid #d3ced2;
+    background-color: #ebe9eb;
+    display: inline-block;
+    position: relative;
+    z-index: 0;
+    margin: 0 -5px;
+    padding: 0 1em;
+    border-radius: 0;
+}
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active {
+    background: #fff;
+    z-index: 2;
+    border-color: grey;
+    border-radius: 0;
+}
+.woocommerce div.product .woocommerce-tabs ul.tabs::before {
+    position: absolute;
+    content: " ";
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    border-bottom: none;
+    z-index: 1;
+}
+.woocommerce div.product .woocommerce-tabs ul.tabs li::after {
+    display: none;
+}
+.woocommerce div.product .woocommerce-tabs ul.tabs li::before {
+    display: none;
+}
+.woocommerce ul.products li.product .button{
+    background-color: #E8C781;
+    color: #fff;
+    border: none;
+    border-radius: 30px;
+    font-weight: 400;
+    padding:  10px 20px ;
+}

@@ -18,10 +18,10 @@
     <div id="container">
         <header>
             <img src="<?php echo get_template_directory_uri(); ?>/images/logoKerako.jpg" class="logoKerako">
-            <div class="search">
-                <form action="/" method="get" class="searchForm">
+            <div class="formSearch">
+                <form action="/kerako" method="get" class="searchForm">
                     <input type="text" name="s" value="<?php the_search_query(); ?>" placeholder="Recherche" />
-                    <img src="<?php echo get_template_directory_uri(); ?>/images/loupe.png" class="loupe">
+                    <button type="submit" class="button-search"><img src="<?php echo get_template_directory_uri(); ?>/images/loupe.png" class="loupe"></button>
                 </form>
                 <hr class="bottom--search">
             </div>
