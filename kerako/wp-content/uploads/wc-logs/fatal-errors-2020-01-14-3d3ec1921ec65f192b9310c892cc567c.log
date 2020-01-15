@@ -5266,3 +5266,51 @@ Stack trace:
 #7 {main}
   thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 32
 
+2020-01-14T15:36:16+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:32
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/index.php(177): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 32
+
+2020-01-14T15:38:49+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:32
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/index.php(177): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 32
+
+2020-01-14T15:38:55+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:32
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/index.php(177): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 32
+
+2020-01-14T15:39:07+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:32
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/index.php(177): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 32
+

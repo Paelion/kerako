@@ -107,6 +107,7 @@ header {
 .formSearch input {
     border: none;
     font-family: 'Montserrat', sans-serif;
+
 }
 
 .bottom--search {
@@ -153,62 +154,94 @@ header {
     height: 50px;
     padding-top: 15px;
 }
+.carousel-control-next-cat{
+    right: 20px;
+}
+.carousel-control-prev-cat{
+    left: -60px;
+}
 
-
-/**** Vedette / Categorie ****/
-.best, .categoryBlock {
+/**** Categorie ****/
+.category{
     justify-content: space-between;
 }
 
-.best--art1, .best--art2, .best--art3, .categoryBlock1, .categoryBlock2, .categoryBlock3 {
+.cat--art1, .cat--art2, .cat--art3, .categoryBlock1, .categoryBlock2, .categoryBlock3 {
     height: 250px;
-    margin: 60px;
+    margin: 0 60px 120px;
 }
 
-.imageBest {
+.imageCat {
     width: 110%;
 }
-
-.titleBest {
+.imageCat:hover {
+    opacity: 0.5;
+    transition: 0.3s;
+}
+.titleCat {
     display: flex;
     justify-content: center;
-    padding-top: 20px;
+    margin: 20px;
+    font-size: 22px;
+    font-weight: 300;
+}
+.imageCat {
+    width: 100%;
 }
 
+.catTitle{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    margin: 100px 0 10px;
+}
+
+/**** Separator image ****/
+.imgSeparator {
+    width: 100%;
+}
 
 /**** Nouveautés ****/
 .new {
-    padding-top: 50px;
+    background-color: #EEEEEE;
+    padding: 10px 0 40px 0;
+    margin: 100px 0;
 }
 
 .new--title {
     display: flex;
     justify-content: center;
+    font-size: 25px;
 }
 
 .new--slider {
-    padding-left: 30px;
+    padding-left: 10%;
+    padding-top: 30px;
 }
 
 .bottom--new {
     width: 40%;
-    height: 1px;
+    height: 0.5px;
     background-color: black;
     border: none;
 }
 
 .imageNew {
-    width: 90%;
+    width: 70%;
+}
+.imageNew:hover{
+    opacity: 0.5;
+    transition: 0.3s;
 }
 
 /**** Histoire ****/
 
 .myStory {
     background-color: #3A3939;
-    margin: 80px 0 40px;
     padding: 0;
-    height: 600px;
+    height: 500px;
     color: white;
+    margin: -5px 0;
 }
 
 .story--start {
@@ -218,7 +251,8 @@ header {
 
 .story--content {
     display: block;
-    margin-left: 200px;
+    margin-left: 10%;
+    font-size: 18px;
 }
 
 .story {
@@ -228,27 +262,19 @@ header {
 .storyTitle {
     position: relative;
     z-index: 1;
-    font-size: 25px;
+    font-size: 30px;
     display: flex;
-    justify-content: flex-end;
-    margin: 40px 150px 80px;
+    margin: 40px 25% 60px;
 }
-
-.imageStory {
-    width: 600px;
-    z-index: 0;
-    position: absolute;
-    margin-left: 25%;
-}
-
 .imageStoryHer {
     width: 400px;
 }
 
 .storyAtelier {
     display: block;
-    margin-left: 80px;
-    margin-top: 20px;
+    margin-left: 10%;
+    margin-top: 10%;
+    width: 100%;
 }
 
 .storyAtelierName {
@@ -272,6 +298,7 @@ header {
     width: 70%;
     text-align: justify;
     margin-top: 20px;
+    font-weight: 200;
 }
 
 .btn--story, .btn--more {
@@ -279,22 +306,19 @@ header {
     background-color: #E8C781;
     border-color: #E8C781;
     border-radius: 20px;
-    padding: 8px 35px;
+    padding: 10px 35px;
     margin-left: 100px;
 }
 
 .buttonBlock {
     display: flex;
     justify-content: center;
-    margin-left: 310px;
     position: relative;
+    margin-top: 50px;
+    margin-left: 7%;
 }
 
-/**** Categories ****/
 
-.imageCat {
-    width: 100%;
-}
 
 /**** Footer ****/
 footer {
@@ -788,13 +812,15 @@ h1{
     border-color: grey;
     border-radius: 0;
 }
+.woocommerce div.product .woocommerce-tabs ul.tabs li a{
+    font-weight: 300;
+}
 .woocommerce div.product .woocommerce-tabs ul.tabs::before {
     position: absolute;
     content: " ";
-    width: 100%;
+    width: 98%;
     bottom: 0;
     left: 0;
-    border-bottom: none;
     z-index: 1;
 }
 .woocommerce div.product .woocommerce-tabs ul.tabs li::after {
@@ -803,11 +829,14 @@ h1{
 .woocommerce div.product .woocommerce-tabs ul.tabs li::before {
     display: none;
 }
-.woocommerce ul.products li.product .button{
+.woocommerce ul.products li.product .button, .woocommerce #review_form #respond .form-submit input{
     background-color: #E8C781;
     color: #fff;
     border: none;
     border-radius: 30px;
     font-weight: 400;
     padding:  10px 20px ;
+}
+.woocommerce #review_form #respond textarea {
+    border: solid 1px gray;
 }
