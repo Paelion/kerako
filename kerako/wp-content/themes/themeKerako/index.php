@@ -18,7 +18,7 @@ if (!function_exists('get_field')) return;
                 <img class="imageSlider" src="<?php the_field('slider_1') ?>">
             </div>
             <div class="carousel-item">
-                <img class="imageSlider" src="<?php the_field('slider_1') ?>">
+                <img class="imageSlider" src="<?php the_field('slider_2') ?>">
             </div>
             <div class="carousel-item">
                 <img class="imageSlider" src="<?php the_field('slider_3') ?>">
@@ -66,19 +66,19 @@ if (!function_exists('get_field')) return;
         <h2 class="catTitle">Catégories</h2>
         <div class="row">
             <div class="cat--art1 col-3">
-                <h4 class="titleCat"><?php the_field('best_title_1') ?></h4>
+                <h4 class="titleCat"><?php the_field('cat_title_1') ?></h4>
                 <a href="http://localhost:8888/kerako/categorie-produit/chaise/"><img class="imageCat"
-                                                                                      src="<?php the_field('best_1') ?>"></a>
+                                                                                      src="<?php the_field('cat_1') ?>"></a>
             </div>
             <div class="cat--art2 col-3">
-                <h4 class="titleCat"><?php the_field('best_title_2') ?></h4>
+                <h4 class="titleCat"><?php the_field('cat_title_2') ?></h4>
                 <a href="http://localhost:8888/kerako/categorie-produit/canapes/"><img class="imageCat"
-                                                                                       src="<?php the_field('best_2') ?>"></a>
+                                                                                       src="<?php the_field('cat_2') ?>"></a>
             </div>
             <div class="cat--art3 col-3">
-                <h4 class="titleCat"><?php the_field('best_title_2') ?></h4>
+                <h4 class="titleCat"><?php the_field('cat_title_2') ?></h4>
                 <a href="http://localhost:8888/kerako/categorie-produit/table/"><img class="imageCat"
-                                                                                     src="<?php the_field('best_3') ?>"></a>
+                                                                                     src="<?php the_field('cat_3') ?>"></a>
             </div>
         </div>
     </section>
@@ -98,37 +98,37 @@ if (!function_exists('get_field')) return;
                     <div class="carousel-item active">
                         <div class="row">
                             <div class="col-sm"><a href="http://localhost:8888/kerako/produit/produit-4/"><img
+                                            class="imageNew" src="<?php the_field('new_1') ?>"></a></div>
+                            <div class="col-sm"><a href="http://localhost:8888/kerako/produit/produit-4/"><img
                                             class="imageNew" src="<?php the_field('new_2') ?>"></a></div>
                             <div class="col-sm"><a href="http://localhost:8888/kerako/produit/produit-4/"><img
                                             class="imageNew" src="<?php the_field('new_3') ?>"></a></div>
                             <div class="col-sm"><a href="http://localhost:8888/kerako/produit/produit-4/"><img
                                             class="imageNew" src="<?php the_field('new_4') ?>"></a></div>
-                            <div class="col-sm"><a href="http://localhost:8888/kerako/produit/produit-4/"><img
-                                            class="imageNew" src="<?php the_field('new_5') ?>"></a></div>
                         </div>
                     </div>
                     <div class="carousel-item">
                         <div class="row">
                             <div class="col-sm"><a href="http://localhost:8888/kerako/produit/produit-4/"><img
+                                            class="imageNew" src="<?php the_field('new_1') ?>"></a></div>
+                            <div class="col-sm"><a href="http://localhost:8888/kerako/produit/produit-4/"><img
                                             class="imageNew" src="<?php the_field('new_2') ?>"></a></div>
                             <div class="col-sm"><a href="http://localhost:8888/kerako/produit/produit-4/"><img
                                             class="imageNew" src="<?php the_field('new_3') ?>"></a></div>
                             <div class="col-sm"><a href="http://localhost:8888/kerako/produit/produit-4/"><img
                                             class="imageNew" src="<?php the_field('new_4') ?>"></a></div>
-                            <div class="col-sm"><a href="http://localhost:8888/kerako/produit/produit-4/"><img
-                                            class="imageNew" src="<?php the_field('new_5') ?>"></a></div>
                         </div>
                     </div>
                     <div class="carousel-item">
                         <div class="row">
                             <div class="col-sm"><a href="http://localhost:8888/kerako/produit/produit-4/"><img
+                                            class="imageNew" src="<?php the_field('new_1') ?>"></a></div>
+                            <div class="col-sm"><a href="http://localhost:8888/kerako/produit/produit-4/"><img
                                             class="imageNew" src="<?php the_field('new_2') ?>"></a></div>
                             <div class="col-sm"><a href="http://localhost:8888/kerako/produit/produit-4/"><img
                                             class="imageNew" src="<?php the_field('new_3') ?>"></a></div>
                             <div class="col-sm"><a href="http://localhost:8888/kerako/produit/produit-4/"><img
                                             class="imageNew" src="<?php the_field('new_4') ?>"></a></div>
-                            <div class="col-sm"><a href="http://localhost:8888/kerako/produit/produit-4/"><img
-                                            class="imageNew" src="<?php the_field('new_5') ?>"></a></div>
                         </div>
                     </div>
                 </div>

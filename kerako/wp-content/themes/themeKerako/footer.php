@@ -1,26 +1,44 @@
 <footer>
     <div class="footer--wrapper">
         <div class="footer--left">
-            <img src="<?php echo get_template_directory_uri(); ?>/images/Logo_blanc.png" class="logoKerakoWhite">
             <div class="menuFooter"><?php wp_nav_menu(array('theme_location' => 'footer_menu')); ?></div>
         </div>
         <div class="footer--center">
+            <img src="<?php echo get_template_directory_uri(); ?>/images/Logo_blanc.png" class="logoKerakoWhite">
             <h3>Atelier Kérako</h3>
-            <p>12 Avenue Léonard de Vinci, 92400 Courbevoie </p>
-            <p>06.06.06.06.06</p>
-            <p>Test.test@gmail.com</p>
+            <p>22 aulnois 02400 Essômes sur Marne</p>
+            <p>06 28 76 55 67</p>
+            <p>contact@atelier-kerako.com</p>
         </div>
-        <div class="footer--right">
+        <div class="newsletterForm">
+            <h5>S'abonner à la newsletter</h5>
+            <input placeholder="Votre adresse mail">
+        </div>
+    </div>
+    <hr class="bottom--social">
+    <div class="menuMedia">
+        <div class="mediaFlex">
             <p>Nous suivre</p>
             <ul class="footer-socialNetworks">
                 <li><a href=""><img src="<?php echo get_template_directory_uri(); ?>/images/réseaublancFB.png"
-                            class="logoKerakoWhite"></a></li>
+                                    class="mediaLogo"></a></li>
+                <li class="mediaLogoLn"><a href=""><img src="<?php echo get_template_directory_uri(); ?>/images/ln.png"
+                                                        class="mediaLogo"></a></li>
                 <li><a href=""><img src="<?php echo get_template_directory_uri(); ?>/images/réseaublancINSTA.png"
-                            class="logoKerakoWhite"></a></li>
+                                    class="mediaLogo"></a></li>
             </ul>
-            <h5>S'abonner à la newsletter</h5>
-            <input placeholder="Tom mail">
         </div>
+    </div>
+    <div class="footer--leg">
+        <ul>
+            <li><a href="">© 2019 test</a></li>
+            <li class="pipe"><a href="">|</a></li>
+            <li><a href="">Mentions légales </a></li>
+            <li class="pipe"><a href="">|</a></li>
+            <li><a href="">Politique de confidentialité </a></li>
+            <li class="pipe"><a href="">|</a></li>
+            <li><a href="">Conditions Générales de Vente</a></li>
+        </ul>
     </div>
 </footer>
 
