@@ -13,8 +13,6 @@ if (!function_exists('get_field')) return;
     <div class="content">
         <div id="primary" class="content-area">
             <main id="main" class="site-main contact">
-                <img src="<?php echo get_template_directory_uri(); ?>/images/tache.png"
-                     class="bcTache">
                 <h4  class="contact--title">Me contacter</h4>
                 <div class="contact--flex">
                     <div class="contat--right">

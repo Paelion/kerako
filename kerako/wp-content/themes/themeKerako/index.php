@@ -60,11 +60,12 @@ if (!function_exists('get_field')) return;
         </div>
     </section>
 
-    <!-- En vedette -->
+    <!-- Categoies  -->
 
     <section class="category">
         <h2 class="catTitle">Catégories</h2>
-        <div class="row">
+        <hr class="bottom--cat">
+        <div class="row cat--flex">
             <div class="cat--art1 col-3">
                 <h4 class="titleCat"><?php the_field('cat_title_1') ?></h4>
                 <a href="http://localhost:8888/kerako/categorie-produit/chaise/"><img class="imageCat"

@@ -3,12 +3,11 @@
 Template name:Histoire
 */
 
-
 get_header();
 
 if (!function_exists('get_field')) return;
-?>
 
+?>
     <div class="content">
         <div id="primary" class="content-area">
             <main id="main" class="site-main">
