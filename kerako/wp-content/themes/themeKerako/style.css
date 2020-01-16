@@ -69,12 +69,6 @@ table {
 
 
 /*-------------------------------------------------------*/
-@media (max-width:1450px) {
-    .container {
-        max-width: 1400px;
-    }
-}
-
 
 @media (max-width:1920px) {
     /*------------------- ACCUEIL -------------------*/
@@ -316,6 +310,7 @@ table {
         text-align: justify;
         margin-top: 20px;
         font-weight: 200;
+        font-size: 18px;
     }
 
     .btn--story, .btn--more {
@@ -473,7 +468,6 @@ table {
         margin-top:25px ;
         width: 130%;
         border: none;
-
     }
 
     /*------------------- WOO COMMERCE -------------------*/
@@ -900,6 +894,8 @@ table {
     }
     .products h2{
         margin-left: 10%;
+        font-size: 25px;
+        font-weight: 200;
     }
     .woocommerce div.product .woocommerce-tabs ul.tabs li.active {
         background: #fff;
@@ -927,9 +923,9 @@ table {
     .woocommerce div.product .woocommerce-tabs ul.tabs::before {
         position: absolute;
         content: " ";
-        width: 98%;
+        width: 90%;
         bottom: 0;
-        left: 0;
+        left: 5%;
         z-index: 1;
     }
     .woocommerce div.product .woocommerce-tabs ul.tabs li::after {
@@ -984,5 +980,131 @@ table {
         text-decoration: none;
         color: #E8C781;
     }
+    .woocommerce div.product .woocommerce-tabs ul.tabs li {
+        background-color: #E8C781;
+    }
+    .woocommerce div.product .woocommerce-tabs .panel h2{
+        font-size: 25px;
+        font-weight: 200;
+    }
+    .related{
+        margin: 10% 0 5% 0;
+    }
 
+    /**{
+        border: 1px solid red !important;
+    }*/
+
+    /*------ Search ------*/
+    .wrapper--search h2{
+        display: flex;
+        justify-content: center;
+        font-size: 20px;
+        font-weight: 300;
+        margin-top: 5%;
+    }
+    .bottom--searchTitle{
+        width: 30%;
+        height: 1px;
+        background-color: black;
+        border: none;
+        margin-bottom: 30px;
+    }
+    .wrapper--search li{
+        display: flex;
+        justify-content: center;
+    }
+    .wrapper--search ul{
+        display: block;
+        margin-bottom: 5%;
+    }
+    .wrapper--search a{
+        font-size: 16px;
+        margin: 1% 0;
+    }
+    .wrapper--search a:hover{
+        text-decoration: none;
+        color: #E8C781;
+    }
+}
+@media (max-width:1450px) {
+    .container {
+        max-width: 1400px;
+    }
+}
+@media (max-width:1024px) {
+    .container {
+        max-width: 1024px;
+    }
+    /**** Header ****/
+    .logoKerako {
+        width: 10%;
+    }
+    /**** Histoire ****/
+    .storyDesc {
+        font-size: 16px;
+        width: 80%;
+    }
+    .storyTitle {
+        margin: 40px 25% 40px;
+    }
+    .buttonBlock {
+        margin-left: 10%;
+    }
+    /**** Catégories ****/
+    .cat--art1, .cat--art2, .cat--art3, .categoryBlock1, .categoryBlock2, .categoryBlock3 {
+        margin: 0 60px 50px;
+    }
+    /**** Nouveautés ****/
+    .new--slider{
+        margin-left: 0;
+        padding-left: 5%;
+    }
+    /**** FOOTER ****/
+    .newsletterForm input {
+        width: 110%;
+    }
+}
+@media (max-width:768px) {
+    .container {
+        max-width: 768px;
+    }
+    /**** Header ****/
+    .logoKerako {
+        width: 10%;
+        height: 20%;
+    }
+    /**** Histoire ****/
+    .myStory{
+        height: 550px;
+    }
+    .storyTitle {
+        margin: 30px 25% 30px;
+    }
+    .storyAtelier {
+        margin-left: 8%;
+        margin-top: 20%;
+    }
+    .btn--story{
+        margin-left: 30px;
+    }
+    .buttonBlock {
+        margin-left: 18%;
+    }
+    /**** Catégories ****/
+    .cat--art1, .cat--art2, .cat--art3, .categoryBlock1, .categoryBlock2, .categoryBlock3 {
+        margin: 0 60px 20px;
+    }
+    .catTitle {
+         margin: 50px 0 10px;
+     }
+    /**** Nouveautés ****/
+    .new--slider{
+        margin-left: 0;
+        padding-left: 5%;
+    }
+    /**** FOOTER ****/
+    .newsletterForm input {
+        width: 110%;
+    }
 }

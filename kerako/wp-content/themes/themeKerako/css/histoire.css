@@ -69,362 +69,445 @@ table {
 
 
 /*-------------------------------------------------------*/
-.content{
-    font-family: 'Montserrat', sans-serif;
-}
-.container{
-    max-width: 1400px;
-}
-/**** Header  ***/
-header {
-    display: flex;
-    margin: 15px 0;
-    justify-content: space-between;
-}
-
-.header--right{
-    display: flex;
-}
-
-.logoKerako {
-    width: 7%;
-    margin-left: 10%;
-}
-.loupe {
-    width: 20px;
-}
-.searchForm {
-    display: flex;
-    justify-content: center;
-    border: 1px solid grey;
-    border-radius: 20px;
-    padding: 5px 10px ;
-    margin-top: 15px;
-}
-.formSearch{
-    padding-right: 10%;
-}
-.formSearch input {
-    font-family: 'Montserrat', sans-serif;
-    border: none;
-    width: 70%;
-}
-.button-search{
-    background-color: transparent;
-    border: none;
-    width: 50px;
-}
-.accesPage {
-    display: flex;
-    margin-top:20px;
-    margin-right: 10%;
-}
-
-.accesPage a {
-    margin-right: 50px;
-}
-.accesPage img{
-    width: 100%;
-}
 
 
-/**** Footer ****/
-footer {
-    background-color: gray;
-    font-family: 'Montserrat', sans-serif;
-    background-color: black;
-    padding: 30px 0;
-}
-.footer--wrapper {
-    display: flex;
-    justify-content: space-around;
-    margin-top: 5%;
-}
-.footer--left a {
-    color: white;
-    font-weight: 200;
-    font-size: 18px;
-    text-decoration: none;
-}
-.footer--center {
-    color: white;
-    margin-top: 80px;
-    margin-left: 10%;
-}
-.footer--center h3 {
-    color: #90773E;
-    display: flex;
-    justify-content: center;
-    font-size: 30px;
-    font-weight: bold;
-    margin-bottom: 20px;
-}
-.footer--center p {
-    display: flex;
-    justify-content: center;
-    margin-bottom: 15px;
-    font-weight: 200;
-    font-size: 20px;
-}
-.footer--right {
-    color: white;
-}
-.footer--right ul li {
-    display: flex;
-}
-.imageSlider {
-    width: 100%;
-}
-.logoKerakoWhite {
-    width: 35%;
-    margin-left: 35%;
-    margin-bottom: 15%;
-}
-.footer-socialNetworks {
-    display: flex;
-    margin-top: 10px;
-}
-.footer--left{
-    margin-top: 20%;
-    margin-left: 4%;
-}
-.footer--left a{
-    font-size: 20px;
-}
-.footer--left li {
-    margin-bottom: 10px;
-}
-.footer--right p {
-    margin-top: 80px;
-    margin-right: 200px;
-}
-.footer--right input {
-    padding: 10px;
-    width: 280px;
-    margin-top: 10px;
-}
-.bottom--social{
-    width: 83%;
-    height: 1px;
-    background-color: white;
-    border: none;
-}
-.menuMedia{
-    display: flex;
-    justify-content: center;
-}
-.mediaFlex{
-    display: block;
-}
-.mediaFlex p{
-    display: flex;
-    justify-content: space-evenly;
-}
-.menuMedia p{
-    color: white;
-    font-weight: 200;
-    font-size: 20px;
-    text-decoration: none;
-    margin: 10px 0 20px 0;
-}
-.mediaLogoLn img{
-    width: 90%;
-    padding: 0 10px 0 20px;
-}
-.footer--leg{
-    display: flex;
-    justify-content: flex-end;
-    margin: 40px 40px 50px;
-}
-.footer--leg ul {
-    display: flex;
-}
-.footer--leg a{
-    color: white;
-    font-size: 20px;
-    font-weight: 200;
-    margin: 0 10px;
-}
-.newsletterForm{
-    margin-right: 5%;
-}
-.newsletterForm h5{
-    color: white;
-    font-size: 20px;
-    font-weight: 200;
-}
-.newsletterForm input {
-    padding: 20px ;
-    margin-top:25px ;
-    width: 130%;
-    border: none;
 
-}
+@media (max-width:1920px) {
+    .content {
+        font-family: 'Montserrat', sans-serif;
+    }
 
-/*-------------------------------------------------------*/
+    .container {
+        max-width: 1400px;
+    }
 
-.atelier--flex, .portrait--flex, .histoireInfo{
-    display: flex;
-}
-.portrait--block{
-    display: block;
-}
-.imageAtelier{
-    width: 30%;
-    margin-left: 100px;
-    position: relative;
-    z-index: 1;
-}
-.atelierTitle{
-    margin-left: 10%;
-}
-.atelierTitle h4{
-    font-size: 40px;
-    font-weight: bold;
-    margin-top: 70px;
-    margin-left: 25%;
-}
-.atelier--line, .portrait--line{
-    width: 50%;
-    height: 1px;
-    background-color: black;
-    border: none;
-    margin-left: 110px;
-}
-.atelier h5{
-    color: #E8C781;
-    font-size: 30px;
-    font-weight: bold;
-    margin-left: 22%;
-}
-.atelier p{
-    text-align: justify;
-    width: 90%;
-    margin-left: 22%;
-    margin-top: 30px;
-    font-weight: 300;
-    font-size: 22px;
-    color: #8D8686;
-}
-.atelierPara{
-    display: block;
-    width: 55%;
-    margin-top: 30px;
-    z-index: 1;
-    position: absolute;
-}
-.atelier--bc{
-    background-color: #F3F3F3;
-    height: 300px;
-    z-index: 0;
-    position: relative;
-    margin-top: 10%;
-}
+    /**** Header  ***/
+    header {
+        display: flex;
+        margin: 15px 0;
+        justify-content: space-between;
+    }
 
-.portraitTitle{
-    font-size: 30px;
-    font-weight: bold;
-    margin-top: 180px;
-}
-.portraitTitle h4{
-    margin-left: 12%;
-}
-.portrait--line{
-    margin-left: 10%;
-}
-.imagePortrait{
-    width: 25%;
-    margin-left: 12%;
-    margin-top: 2%;
-    height: 100%;
-}
-.portrait--block{
-    padding-left: 5%;
-}
-.portrait--block h2{
-    font-size: 40px;
-    font-weight: bold;
-    margin-bottom: 30px;
-    margin-top: 20px;
-}
-.portrait--block p{
-    font-weight: 300;
-    text-align: justify;
-    width: 85%;
-    font-size: 20px;
-}
-.btn--portrait{
-    color: #fff;
-    background-color: #E8C781;
-    border-color: #E8C781;
-    border-radius: 50px;
-    padding: 20px 150px 20px 30px;
-    font-size: 18px;
-    font-weight: 300;
-    margin: 5% 0 10% 50%;
-}
-.btn--portrait:hover{
-    color: white;
-    background-color: black;
-    border-color: black;
-    transition: 0.3s;
-}
+    .header--right {
+        display: flex;
+    }
+
+    .logoKerako {
+        width: 7%;
+        margin-left: 10%;
+    }
+
+    .loupe {
+        width: 20px;
+    }
+
+    .searchForm {
+        display: flex;
+        justify-content: center;
+        border: 1px solid grey;
+        border-radius: 20px;
+        padding: 5px 10px;
+        margin-top: 15px;
+    }
+
+    .formSearch {
+        padding-right: 10%;
+    }
+
+    .formSearch input {
+        font-family: 'Montserrat', sans-serif;
+        border: none;
+        width: 70%;
+    }
+
+    .button-search {
+        background-color: transparent;
+        border: none;
+        width: 50px;
+    }
+
+    .accesPage {
+        display: flex;
+        margin-top: 20px;
+        margin-right: 10%;
+    }
+
+    .accesPage a {
+        margin-right: 50px;
+    }
+
+    .accesPage img {
+        width: 100%;
+    }
 
 
-.separateurImg{
-    width: 100%;
-}
+    /**** Footer ****/
+    footer {
+        background-color: gray;
+        font-family: 'Montserrat', sans-serif;
+        background-color: black;
+        padding: 30px 0;
+    }
 
-.blog{
-    background-color: #F8F8F8;
-    display: flex;
-    justify-content: center;
-    margin: 80px 0;
-}
-.blog--content{
-    display: block;
-}
-.btn--blog{
-    color: #fff;
-    background-color: #E8C781;
-    border-color: #E8C781;
-    border-radius: 50px;
-    padding: 20px 90px;
-    font-size: 18px;
-    font-weight: 300;
-    margin: 20% 0 40% 0;
-}
-.blog--content h2{
-    font-size: 35px;
-    font-weight: bold;
-    margin-top: 80px;
-    margin-left: 40px;
-}
+    .footer--wrapper {
+        display: flex;
+        justify-content: space-around;
+        margin-top: 5%;
+    }
 
-.histoireInfoImg{
-    width:35%;
-    height: 100%;
-    margin: 3% 0;
+    .footer--left a {
+        color: white;
+        font-weight: 200;
+        font-size: 18px;
+        text-decoration: none;
+    }
+
+    .footer--center {
+        color: white;
+        margin-top: 80px;
+        margin-left: 10%;
+    }
+
+    .footer--center h3 {
+        color: #90773E;
+        display: flex;
+        justify-content: center;
+        font-size: 30px;
+        font-weight: bold;
+        margin-bottom: 20px;
+    }
+
+    .footer--center p {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 15px;
+        font-weight: 200;
+        font-size: 20px;
+    }
+
+    .footer--right {
+        color: white;
+    }
+
+    .footer--right ul li {
+        display: flex;
+    }
+
+    .imageSlider {
+        width: 100%;
+    }
+
+    .logoKerakoWhite {
+        width: 35%;
+        margin-left: 35%;
+        margin-bottom: 15%;
+    }
+
+    .footer-socialNetworks {
+        display: flex;
+        margin-top: 10px;
+    }
+
+    .footer--left {
+        margin-top: 20%;
+        margin-left: 4%;
+    }
+
+    .footer--left a {
+        font-size: 20px;
+    }
+
+    .footer--left li {
+        margin-bottom: 10px;
+    }
+
+    .footer--right p {
+        margin-top: 80px;
+        margin-right: 200px;
+    }
+
+    .footer--right input {
+        padding: 10px;
+        width: 280px;
+        margin-top: 10px;
+    }
+
+    .bottom--social {
+        width: 83%;
+        height: 1px;
+        background-color: white;
+        border: none;
+    }
+
+    .menuMedia {
+        display: flex;
+        justify-content: center;
+    }
+
+    .mediaFlex {
+        display: block;
+    }
+
+    .mediaFlex p {
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+    .menuMedia p {
+        color: white;
+        font-weight: 200;
+        font-size: 20px;
+        text-decoration: none;
+        margin: 10px 0 20px 0;
+    }
+
+    .mediaLogoLn img {
+        width: 90%;
+        padding: 0 10px 0 20px;
+    }
+
+    .footer--leg {
+        display: flex;
+        justify-content: flex-end;
+        margin: 40px 40px 50px;
+    }
+
+    .footer--leg ul {
+        display: flex;
+    }
+
+    .footer--leg a {
+        color: white;
+        font-size: 20px;
+        font-weight: 200;
+        margin: 0 10px;
+    }
+
+    .newsletterForm {
+        margin-right: 5%;
+    }
+
+    .newsletterForm h5 {
+        color: white;
+        font-size: 20px;
+        font-weight: 200;
+    }
+
+    .newsletterForm input {
+        padding: 20px;
+        margin-top: 25px;
+        width: 130%;
+        border: none;
+
+    }
+
+    /*-------------------------------------------------------*/
+    .atelier--flex, .portrait--flex, .histoireInfo {
+        display: flex;
+    }
+
+    .portrait--block {
+        display: block;
+    }
+
+    .imageAtelier {
+        width: 30%;
+        margin-left: 100px;
+        position: relative;
+        z-index: 1;
+    }
+
+    .atelierTitle {
+        margin-left: 10%;
+    }
+
+    .atelierTitle h4 {
+        font-size: 40px;
+        font-weight: bold;
+        margin-top: 70px;
+        margin-left: 25%;
+    }
+
+    .atelier--line, .portrait--line {
+        width: 50%;
+        height: 1px;
+        background-color: black;
+        border: none;
+        margin-left: 110px;
+    }
+
+    .atelier h5 {
+        color: #E8C781;
+        font-size: 30px;
+        font-weight: bold;
+        margin-left: 22%;
+    }
+
+    .atelier p {
+        text-align: justify;
+        width: 90%;
+        margin-left: 22%;
+        margin-top: 30px;
+        font-weight: 300;
+        font-size: 27px;
+        color: #8D8686;
+    }
+
+    .atelierPara {
+        display: block;
+        width: 55%;
+        margin-top: 30px;
+        z-index: 1;
+        position: absolute;
+    }
+
+    .atelier--bc {
+        background-color: #F3F3F3;
+        height: 300px;
+        z-index: 0;
+        position: relative;
+        margin-top: 10%;
+    }
+
+    .portraitTitle {
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 180px;
+    }
+
+    .portraitTitle h4 {
+        margin-left: 12%;
+    }
+
+    .portrait--line {
+        margin-left: 10%;
+    }
+
+    .imagePortrait {
+        width: 25%;
+        margin-left: 12%;
+        margin-top: 2%;
+        height: 100%;
+    }
+
+    .portrait--block {
+        padding-left: 5%;
+    }
+
+    .portrait--block h2 {
+        font-size: 40px;
+        font-weight: bold;
+        margin-bottom: 30px;
+        margin-top: 20px;
+    }
+
+    .portrait--block p {
+        font-weight: 300;
+        text-align: justify;
+        width: 85%;
+        font-size: 25px;
+    }
+
+    .btn--portrait {
+        color: #fff;
+        background-color: #E8C781;
+        border-color: #E8C781;
+        border-radius: 50px;
+        padding: 20px 150px 20px 30px;
+        font-size: 18px;
+        font-weight: 300;
+        margin: 5% 0 10% 50%;
+    }
+
+    .btn--portrait:hover {
+        color: white;
+        background-color: black;
+        border-color: black;
+        transition: 0.3s;
+    }
+
+
+    .separateurImg {
+        width: 100%;
+    }
+
+    .blog {
+        background-color: #F8F8F8;
+        display: flex;
+        justify-content: center;
+        margin: 80px 0;
+    }
+
+    .blog--content {
+        display: block;
+    }
+
+    .btn--blog {
+        color: #fff;
+        background-color: #E8C781;
+        border-color: #E8C781;
+        border-radius: 50px;
+        padding: 20px 90px;
+        font-size: 18px;
+        font-weight: 300;
+        margin: 20% 0 40% 0;
+    }
+
+    .blog--content h2 {
+        font-size: 35px;
+        font-weight: bold;
+        margin-top: 80px;
+        margin-left: 40px;
+    }
+
+    .histoireInfoImg {
+        width: 35%;
+        height: 100%;
+        margin: 3% 0;
+    }
+
+    .histoireInfo1 {
+        background-color: #F3F3F3;
+    }
+
+    .histoireInfo2 {
+        margin-bottom: 100px;
+        margin-top: 30px;
+    }
+
+    .histoireInfo1 p {
+        margin: 5% 5% 5% 0;
+    }
+
+    .histoireInfo2 p {
+        margin: 5% 0 5% 5%;
+    }
+
+    .histoireInfo p {
+        text-align: justify;
+        width: 80%;
+        font-size: 25px;
+        font-weight: 300;
+    }
+
+    .histoireInfo {
+        padding: 0 100px;
+    }
 }
-.histoireInfo1{
-    background-color: #F3F3F3;
-}
-.histoireInfo2{
-    margin-bottom: 100px;
-    margin-top: 30px;
-}
-.histoireInfo1 p{
-    margin: 5% 5% 5% 0;
-}
-.histoireInfo2 p{
-    margin: 5% 0 5% 5%;
-}
-.histoireInfo p{
-    text-align: justify;
-    width: 80%;
-    font-size: 20px;
-    font-weight: 300;
-}
-.histoireInfo{
-   padding: 0 100px;
+@media (max-width:1450px) {
+    .container {
+        max-width: 1400px;
+    }
+    .histoireInfo p {
+        text-align: justify;
+        width: 80%;
+        font-size: 20px;
+        font-weight: 300;
+    }
+    .portrait--block p {
+        font-size: 20px;
+    }
+    .atelier p {
+        font-size: 22px;
+    }
 }

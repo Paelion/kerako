@@ -1,8 +1,9 @@
 <?php get_header(); ?>
 
-<section class="content">
+<section class="content wrapper--search">
     <!-- Lister les articles de WP ex à reprendre pour page category -->
     <h2>Resultat pour : <?php the_search_query(); ?></h2>
+    <hr class="bottom--searchTitle">
     <ul>
         <?php
         //le loop --> ici affiche les articles tant qu'il y en a encore a afficher

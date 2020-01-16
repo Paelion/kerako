@@ -263,73 +263,96 @@ footer {
 
 /*-------------------------------------------------------*/
 
-.reseaux--img a img, .reseaux--img a img{
-    width: 40px;
-    margin-right: 10px;
+
+@media (max-width:1920px) {
+    .reseaux--img a img, .reseaux--img a img {
+        width: 40px;
+        margin-right: 10px;
+    }
+
+    .contact--flex {
+        display: flex;
+        position: relative;
+        z-index: 1;
+        margin-bottom: 5%;
+        margin-left: 10%;
+    }
+
+    .contat--left, .contat--right, input {
+        display: block;
+    }
+
+    .contact--title {
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 80px;
+        margin-left: 20%;
+    }
+
+    .bcTache {
+        width: 50%;
+        position: absolute;
+        z-index: 0;
+    }
+
+    .contact h5 {
+        font-weight: bold;
+        font-size: 18px;
+        margin-left: 80px;
+        margin-bottom: 20px;
+    }
+
+    .contact p {
+        font-size: 18px;
+        margin-left: 80px;
+        margin-bottom: 70px;
+    }
+
+    .reseaux--img {
+        margin-left: 80px;
+    }
+
+    .contat--right {
+        margin-top: 80px;
+    }
+
+    .contat--left {
+        margin-left: 40%;
+        margin-top: 70px;
+    }
+
+    .contat--left input {
+        background-color: #5B5B5B;
+        border: none;
+        padding: 10px 350px 10px 0;
+        border-radius: 25px;
+        margin-bottom: 30px;
+    }
+
+    .contat--left input::placeholder {
+        color: white;
+        font-weight: 200;
+        font-size: 18px;
+        padding-left: 30px;
+    }
+
+    .contat--left textarea {
+        border-color: #DCDADA;
+        height: 150px;
+        width: 300px;
+        color: #8D8686;
+        font-weight: 200;
+        font-size: 18px;
+        padding-left: 30px;
+        padding-top: 20px;
+    }
 }
-.contact{
-    height: 550px;
-}
-.contact--flex{
-    display: flex;
-    position: relative;
-    z-index: 1;
-}
-.contat--left, .contat--right, input{
-    display: block;
-}
-.contact--title{
-    font-size: 30px;
-    font-weight: bold;
-    margin-top: 80px;
-    margin-left: 200px;
-}
-.bcTache{
-    width: 50%;
-    position: absolute;
-    z-index: 0;
-}
-.contact h5{
-    font-weight: bold;
-    font-size: 18px;
-    margin-left: 80px;
-    margin-bottom: 20px;
-}
-.contact p{
-    font-size: 18px;
-    margin-left: 80px;
-    margin-bottom: 70px;
-}
-.reseaux--img{
-    margin-left: 80px;
-}
-.contat--right{
-    margin-top: 80px;
-}
-.contat--left{
-    margin-left: 500px;
-    margin-top: 70px;
-}
-.contat--left input{
-    background-color: #5B5B5B;
-    border: none;
-    padding: 10px 350px 10px 0;
-    border-radius: 25px;
-    margin-bottom: 30px;
-}
-.contat--left input::placeholder{
-    color: white;
-    font-weight: 200;
-    font-size: 18px;
-    padding-left: 30px;
-}
-.contat--left textarea{
-    border-color: #DCDADA;
-    height: 150px;
-    width: 300px;
-    color: #8D8686;
-    font-weight: 200;
-    font-size: 18px;
-    padding-left: 30px;
-    padding-top: 20px;
+@media (max-width:1450px) {
+    .container {
+        max-width: 1400px;
+    }
+    .contat--left {
+        margin-left: 30%;
+        margin-top: 70px;
+    }
 }
