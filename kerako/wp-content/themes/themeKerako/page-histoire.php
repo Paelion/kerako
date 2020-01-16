@@ -27,8 +27,9 @@ if (!function_exists('get_field')) return;
                             <p><?php the_field('atelier_desc_para3'); ?></p>
                             <p><?php the_field('atelier_desc_para4'); ?></p>
                         </div>
-                        <img class="imageAtelier" src="<?php the_field('atelier_img') ?>">
+
                     </div>
+                    <div class="atelier--bc"></div>
                 </div>
 
                 <!-- Portrait -->
