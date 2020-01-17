@@ -796,6 +796,9 @@ table {
         opacity: 0.5;
         transition: 0.3s;
     }
+    .woocommerce ul.products li.product a:hover{
+        color: grey;
+    }
 
 
     /*------ SINGLE PRODUCT ------*/
@@ -1033,6 +1036,30 @@ table {
         color: #E8C781;
     }
 }
+
+
+/*------ ORDER ------*/
+
+.woocommerce-order{
+    width: 70%;
+    margin-left: 15%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @media (max-width:1450px) {
     .container {
         max-width: 1400px;
