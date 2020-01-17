@@ -2290,3 +2290,1707 @@ Stack trace:
 #7 {main}
   thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
 
+2020-01-17T11:41:03+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T11:41:33+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T11:41:46+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T11:41:56+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T11:42:09+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T11:42:40+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T11:42:44+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T11:43:20+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T11:43:45+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T11:44:04+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T11:44:24+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T11:44:38+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:11:39+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:11:42+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:11:44+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:11:49+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:13:07+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:13:14+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:13:20+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:13:26+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:14:12+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:16:44+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:16:53+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:16:57+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:17:01+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:17:03+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:19:57+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:20:19+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:20:26+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:20:33+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:21:43+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:23:00+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:23:03+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:23:17+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:23:20+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:23:53+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:23:56+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:24:08+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:24:10+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:26:31+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:26:56+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:26:59+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:27:02+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:27:14+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:28:07+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:28:33+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:28:37+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:30:32+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:30:34+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:30:38+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:30:42+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:31:49+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:31:53+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:31:58+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:32:01+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:34:15+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:34:19+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:34:21+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:34:52+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:34:55+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:34:59+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:35:21+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:36:23+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:36:36+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:36:41+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:36:44+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:36:50+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:36:52+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:37:49+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:37:51+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:38:12+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:38:18+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:38:21+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:38:25+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:38:27+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:38:53+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:39:26+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:39:28+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:41:14+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:44:15+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:44:22+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:44:37+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:44:42+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/index.php(152): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:44:56+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/index.php(152): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:47:50+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:50:08+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:50:11+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:50:53+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:50:56+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:51:45+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:51:48+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:52:09+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:52:12+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:52:30+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:52:57+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:53:32+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:54:15+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:54:18+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:55:01+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:55:22+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:55:35+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:55:41+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:56:29+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:56:39+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:56:48+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:57:30+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:58:22+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:58:59+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:59:01+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T13:59:03+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T14:05:32+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T14:05:53+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T14:06:15+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T14:06:20+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T14:08:14+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T14:09:26+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T14:09:40+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T14:10:42+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T14:10:44+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T14:11:42+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T14:11:44+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T14:13:14+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T14:13:19+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T14:13:56+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T14:13:57+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T14:14:05+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T14:23:06+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T14:23:17+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T14:23:23+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T14:24:04+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T14:24:13+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T14:32:12+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T14:32:19+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T14:32:21+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T14:33:13+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T14:33:15+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T14:36:49+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T14:36:52+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T14:37:30+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T14:37:42+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T14:41:44+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+
+2020-01-17T14:42:02+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_directory_rri() in /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php:50
+Stack trace:
+#0 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(722): require_once()
+#1 /Applications/MAMP/htdocs/kerako/wp-includes/template.php(671): load_template('/Applications/M...', true)
+#2 /Applications/MAMP/htdocs/kerako/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/page.php(31): get_footer()
+#4 /Applications/MAMP/htdocs/kerako/wp-includes/template-loader.php(98): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/kerako/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/kerako/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown dans /Applications/MAMP/htdocs/kerako/wp-content/themes/themeKerako/footer.php à la ligne 50
+

@@ -576,10 +576,15 @@ table {
         background-color: #EFEDE8;
         padding: 0 30px;
     }
-    .woocommerce table.shop_table {
-        margin: 50px -1px 24px 0;
+    .woocommerce table.shop_table{
+        margin: 50px 50px 24px 0;
         border: none;
     }
+    .woocommerce table.shop_table.account-orders-table {
+        margin: 50px 50px 24px 15%;
+        border: none;
+    }
+
     .woocommerce table.shop_table td {
         border: none;
     }
@@ -671,6 +676,7 @@ table {
         width: 100%;
         display: flex;
         justify-content: center;
+        margin-bottom: 5%;
     }
     .woocommerce-info {
         border-top-color: black;
@@ -705,9 +711,6 @@ table {
     #payment{
         width: 60%;
     }
-    .woocommerce table.shop_table{
-        margin: 50px 50px 24px 0;
-    }
     #order_review_heading{
         font-size: 20px;
         font-weight: bold;
@@ -735,6 +738,40 @@ table {
         max-width: 100%;
         width:100% ;
     }
+    .woocommerce-MyAccount-content a{
+        height: 40px;
+    }
+    .woocommerce a.button{
+        color: white;
+        background-color: black;
+        border-color: black;
+        border-radius: 20px;
+        padding: 12px 20px;
+        margin-left: 100px;
+        font-weight: 300;
+    }
+    .woocommerce a.button:hover{
+        color: white;
+        background-color: #E8C781 ;
+        border: #E8C781;
+        border: 1px;
+        transition: 0.3s;
+    }
+    .button-account button.button{
+        color: white;
+        background-color: black;
+        border-color: black;
+        border-radius: 20px;
+        padding: 12px 20px;
+        margin-top: 3%;
+        font-weight: 300;
+    }
+    .woocommerce-orders-table__cell-order-actions, .woocommerce-orders-table__header-order-actions{
+        display: none;
+    }
+    .woocommerce-orders-table .woocommerce-MyAccount-orders .shop_table .shop_table_responsive .my_account_orders .account-orders-table{
+        margin-left: 15%;
+    }
 
     /*------ BOUTIQUE ------*/
     .page-title{
@@ -757,6 +794,10 @@ table {
     }
     .woocommerce-account .addresses .title .edit {
         margin-left: 20px;
+    }
+    .woocommerce-account .addresses .title .edit:hover{
+        color: #E8C781;
+        text-decoration: none;
     }
     .woocommerce ul.products li.product, .woocommerce-page ul.products li.product {
         float: left;
@@ -1060,8 +1101,6 @@ table {
 .woocommerce .woocommerce-customer-details address{
     padding: 20px;
 }
-
-
 
 
 
