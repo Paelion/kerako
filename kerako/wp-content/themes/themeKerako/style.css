@@ -246,7 +246,14 @@ table {
     .imageNew {
         width: 70%;
     }
+    .imageMore {
+        width: 75%;
+    }
     .imageNew:hover{
+        opacity: 0.5;
+        transition: 0.3s;
+    }
+    .imageMore:hover{
         opacity: 0.5;
         transition: 0.3s;
     }
@@ -327,11 +334,15 @@ table {
         padding: 10px 35px;
         margin-left: 100px;
     }
-    .btn--story:hover{
+    .btn--more{
+        font-size: 18px;
+    }
+    .btn--story:hover, .btn--more:hover{
         color: white;
         background-color: black;
         border: black;
         transition: 0.3s;
+        text-decoration: none;
     }
 
     .buttonBlock {
@@ -460,6 +471,9 @@ table {
         font-size: 20px;
         font-weight: 200;
         margin: 0 10px;
+    }
+    .footer--leg a:hover{
+        text-decoration: none;
     }
     .newsletterForm{
         margin-right: 5%;
@@ -1114,6 +1128,13 @@ table {
     }
     .buttonBlock {
         margin-left: 7%;
+    }
+    /**** Boutique ****/
+    .woocommerce ul.products li.product .button{
+        margin-left: 0;
+    }
+    .woocommerce a.button.alt{
+        padding: 20px 0;
     }
 }
 @media (max-width:1024px) {

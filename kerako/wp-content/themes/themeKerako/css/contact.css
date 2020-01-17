@@ -123,10 +123,6 @@ header {
 .accesPage a {
     margin-right: 50px;
 }
-.accesPage img{
-    width: 100%;
-}
-
 
 /**** Footer ****/
 footer {
@@ -245,6 +241,9 @@ footer {
     font-weight: 200;
     margin: 0 10px;
 }
+.footer--leg a:hover{
+    text-decoration: none;
+}
 .newsletterForm{
     margin-right: 5%;
 }
@@ -258,9 +257,7 @@ footer {
     margin-top:25px ;
     width: 130%;
     border: none;
-
 }
-
 /*-------------------------------------------------------*/
 
 

@@ -42,7 +42,7 @@ if (!function_exists('get_field')) return;
                         <div class="portrait--block">
                             <h2>Elodie Hoerter</h2>
                             <p><?php the_field('portrait_desc'); ?></p>
-                            <button type="button" class="btn--portrait">Me contacter</button>
+                            <a href="http://localhost:8888/kerako/contact/"><button type="button" class="btn--portrait">Me contacter</button></a>
                         </div>
                     </div>
                 </div>

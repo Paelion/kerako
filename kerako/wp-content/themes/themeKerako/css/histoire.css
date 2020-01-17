@@ -88,7 +88,7 @@ table {
         justify-content: space-between;
     }
 
-    .header--right {
+    .header--right{
         display: flex;
     }
 
@@ -96,50 +96,39 @@ table {
         width: 7%;
         margin-left: 10%;
     }
-
     .loupe {
         width: 20px;
     }
-
     .searchForm {
         display: flex;
         justify-content: center;
         border: 1px solid grey;
         border-radius: 20px;
-        padding: 5px 10px;
+        padding: 5px 10px ;
         margin-top: 15px;
     }
-
-    .formSearch {
+    .formSearch{
         padding-right: 10%;
     }
-
     .formSearch input {
         font-family: 'Montserrat', sans-serif;
         border: none;
         width: 70%;
     }
-
-    .button-search {
+    .button-search{
         background-color: transparent;
         border: none;
         width: 50px;
     }
-
     .accesPage {
         display: flex;
-        margin-top: 20px;
+        margin-top:20px;
         margin-right: 10%;
     }
 
     .accesPage a {
         margin-right: 50px;
     }
-
-    .accesPage img {
-        width: 100%;
-    }
-
 
     /**** Footer ****/
     footer {
@@ -148,26 +137,22 @@ table {
         background-color: black;
         padding: 30px 0;
     }
-
     .footer--wrapper {
         display: flex;
         justify-content: space-around;
         margin-top: 5%;
     }
-
     .footer--left a {
         color: white;
         font-weight: 200;
         font-size: 18px;
         text-decoration: none;
     }
-
     .footer--center {
         color: white;
         margin-top: 80px;
         margin-left: 10%;
     }
-
     .footer--center h3 {
         color: #90773E;
         display: flex;
@@ -176,7 +161,6 @@ table {
         font-weight: bold;
         margin-bottom: 20px;
     }
-
     .footer--center p {
         display: flex;
         justify-content: center;
@@ -184,121 +168,101 @@ table {
         font-weight: 200;
         font-size: 20px;
     }
-
     .footer--right {
         color: white;
     }
-
     .footer--right ul li {
         display: flex;
     }
-
     .imageSlider {
         width: 100%;
     }
-
     .logoKerakoWhite {
         width: 35%;
         margin-left: 35%;
         margin-bottom: 15%;
     }
-
     .footer-socialNetworks {
         display: flex;
         margin-top: 10px;
     }
-
-    .footer--left {
+    .footer--left{
         margin-top: 20%;
         margin-left: 4%;
     }
-
-    .footer--left a {
+    .footer--left a{
         font-size: 20px;
     }
-
     .footer--left li {
         margin-bottom: 10px;
     }
-
     .footer--right p {
         margin-top: 80px;
         margin-right: 200px;
     }
-
     .footer--right input {
         padding: 10px;
         width: 280px;
         margin-top: 10px;
     }
-
-    .bottom--social {
+    .bottom--social{
         width: 83%;
         height: 1px;
         background-color: white;
         border: none;
     }
-
-    .menuMedia {
+    .menuMedia{
         display: flex;
         justify-content: center;
     }
-
-    .mediaFlex {
+    .mediaFlex{
         display: block;
     }
-
-    .mediaFlex p {
+    .mediaFlex p{
         display: flex;
         justify-content: space-evenly;
     }
-
-    .menuMedia p {
+    .menuMedia p{
         color: white;
         font-weight: 200;
         font-size: 20px;
         text-decoration: none;
         margin: 10px 0 20px 0;
     }
-
-    .mediaLogoLn img {
+    .mediaLogoLn img{
         width: 90%;
         padding: 0 10px 0 20px;
     }
-
-    .footer--leg {
+    .footer--leg{
         display: flex;
         justify-content: flex-end;
         margin: 40px 40px 50px;
     }
-
     .footer--leg ul {
         display: flex;
     }
-
-    .footer--leg a {
+    .footer--leg a{
         color: white;
         font-size: 20px;
         font-weight: 200;
         margin: 0 10px;
     }
-
-    .newsletterForm {
+    .footer--leg a:hover{
+        text-decoration: none;
+    }
+    .newsletterForm{
         margin-right: 5%;
     }
-
-    .newsletterForm h5 {
+    .newsletterForm h5{
         color: white;
         font-size: 20px;
         font-weight: 200;
     }
-
     .newsletterForm input {
-        padding: 20px;
-        margin-top: 25px;
+        padding: 20px ;
+        margin-top:25px ;
         width: 130%;
         border: none;
-
     }
 
     /*-------------------------------------------------------*/
@@ -424,6 +388,7 @@ table {
         background-color: black;
         border-color: black;
         transition: 0.3s;
+        text-decoration: none;
     }
 
 
