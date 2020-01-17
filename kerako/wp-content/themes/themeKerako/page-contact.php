@@ -27,14 +27,9 @@ if (!function_exists('get_field')) return;
                                             class="reseaux--img--fb"></a>
                         </div>
                     </div>
+
                     <div class="contat--left">
-                        <form method="post" action="page-contact.php">
-                            <input placeholder="Ton nom">
-                            <input placeholder="Ton mail">
-                            <input placeholder="Ton téléphone">
-                            <input placeholder="Objet">
-                            <textarea>Ton message</textarea>
-                        </form>
+                        <?php echo do_shortcode( '[contact-form-7 id="341" title="Contact form 1"]' ); ?>
                     </div>
                 </div>
             </main>

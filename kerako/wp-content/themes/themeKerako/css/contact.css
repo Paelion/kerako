@@ -317,34 +317,42 @@ footer {
     }
 
     .contat--left {
-        margin-left: 40%;
+        margin-left: 25%;
         margin-top: 70px;
     }
 
-    .contat--left input {
+    .wpcf7-form-control-wrap input{
         background-color: #5B5B5B;
         border: none;
-        padding: 10px 350px 10px 30px;
+        padding: 10px 250px 10px 30px;
         border-radius: 25px;
         margin-bottom: 30px;
     }
 
-    .contat--left input::placeholder {
+    .wpcf7-form-control-wrap input::placeholder {
         color: white;
         font-weight: 200;
         font-size: 18px;
         padding-left: 30px;
     }
 
-    .contat--left textarea {
+    .wpcf7-form-control-wrap textarea {
         border-color: #DCDADA;
         height: 150px;
-        width: 300px;
+        width: 500px;
         color: #8D8686;
         font-weight: 200;
         font-size: 18px;
         padding-left: 30px;
         padding-top: 20px;
+    }
+    .button-contact{
+        color: white;
+        background-color: #5B5B5B;
+        border-color: #5B5B5B;
+        border-radius: 20px;
+        padding: 10px 50px;
+        margin-left: 48%
     }
 }
 @media (max-width:1450px) {
@@ -352,7 +360,7 @@ footer {
         max-width: 1400px;
     }
     .contat--left {
-        margin-left: 30%;
+        margin-left: 10%;
         margin-top: 70px;
     }
 }
