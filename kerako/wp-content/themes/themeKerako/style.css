@@ -131,7 +131,13 @@ table {
     .accesPage img{
         width: 100%;
     }
-
+    .logoShop, .logoProfil{
+        position: relative;
+    }
+    .logoShop:hover, .logoProfil:hover{
+        transform:scale(0.9);
+        transition: 0.5s;
+    }
     /**** Nav  ***/
     #menu-primary_menu {
         display: flex;
@@ -333,7 +339,7 @@ table {
         justify-content: center;
         position: relative;
         margin-top: 50px;
-        margin-left: 7%;
+        margin-left: 10%;
     }
 
 
@@ -1030,6 +1036,9 @@ table {
 @media (max-width:1450px) {
     .container {
         max-width: 1400px;
+    }
+    .buttonBlock {
+        margin-left: 7%;
     }
 }
 @media (max-width:1024px) {

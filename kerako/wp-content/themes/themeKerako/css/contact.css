@@ -324,7 +324,7 @@ footer {
     .contat--left input {
         background-color: #5B5B5B;
         border: none;
-        padding: 10px 350px 10px 0;
+        padding: 10px 350px 10px 30px;
         border-radius: 25px;
         margin-bottom: 30px;
     }

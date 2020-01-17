@@ -9,7 +9,6 @@ get_header();
 if (!function_exists('get_field')) return;
 ?>
 
-
     <div class="content">
         <div id="primary" class="content-area">
             <main id="main" class="site-main contact">
@@ -29,7 +28,7 @@ if (!function_exists('get_field')) return;
                         </div>
                     </div>
                     <div class="contat--left">
-                        <form>
+                        <form method="post" action="page-contact.php">
                             <input placeholder="Ton nom">
                             <input placeholder="Ton mail">
                             <input placeholder="Ton téléphone">
