@@ -1044,13 +1044,22 @@ table {
     width: 70%;
     margin-left: 15%;
 }
-
-
-
-
-
-
-
+.woocommerce-thankyou-order-received, .woocommerce ul.order_details, .woocommerce .woocommerce-order-details{
+    margin-top: 5%;
+}
+.woocommerce-customer-details{
+    margin-left: 15%;
+    width: 100%;
+}
+.woocommerce-customer-details--email::before, .woocommerce-customer-details--phone::before{
+    display: none;
+}
+.woocommerce .woocommerce-customer-details .woocommerce-customer-details--phone, .woocommerce .woocommerce-customer-details .woocommerce-customer-details--email{
+    padding-left: 0;
+}
+.woocommerce .woocommerce-customer-details address{
+    padding: 20px;
+}
 
 
 
