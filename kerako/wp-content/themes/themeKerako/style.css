@@ -646,6 +646,10 @@ table {
         display: flex;
         justify-content: center;
     }
+    .woocommerce-cart .cart-collaterals .shipping-calculator-button:hover{
+        text-decoration: none;
+        color: #E8C781;
+    }
 
     /*------ ACCOUNT ------*/
     .woocommerce-MyAccount-navigation {
@@ -786,8 +790,11 @@ table {
     .woocommerce-orders-table .woocommerce-MyAccount-orders .shop_table .shop_table_responsive .my_account_orders .account-orders-table{
         margin-left: 15%;
     }
+    .woocommerce-MyAccount-navigation-link.woocommerce-MyAccount-navigation-link--downloads{
+        display: none;
+    }
 
-    /*------ BOUTIQUE ------*/
+        /*------ BOUTIQUE ------*/
     .page-title{
         display: flex;
         justify-content: center;

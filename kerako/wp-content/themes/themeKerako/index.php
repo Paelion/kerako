@@ -77,7 +77,7 @@ if (!function_exists('get_field')) return;
                                                                                        src="<?php the_field('cat_2') ?>"></a>
             </div>
             <div class="cat--art3 col-3">
-                <h4 class="titleCat"><?php the_field('cat_title_2') ?></h4>
+                <h4 class="titleCat"><?php the_field('cat_title_3') ?></h4>
                 <a href="http://localhost:8888/kerako/categorie-produit/table/"><img class="imageCat"
                                                                                      src="<?php the_field('cat_3') ?>"></a>
             </div>
